@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88acd4a3-2367-4006-a40e-b959fb648dc6" name="Changes" comment="git init" />
+    <list default="true" id="88acd4a3-2367-4006-a40e-b959fb648dc6" name="Changes" comment="git init">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,15 +23,24 @@
       </list>
     </option>
   </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/DallasLaComb/django.git",
-    "accountId": "5c5d1385-b044-4bbb-8c67-02bf6aa40aa6"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DallasLaComb&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DallasLaComb/django.git&quot;,
+    &quot;accountId&quot;: &quot;5c5d1385-b044-4bbb-8c67-02bf6aa40aa6&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -52,7 +63,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "configurable.group.editor",
+    "settings.editor.selected.configurable": "actions.on.save",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -105,7 +116,8 @@
       <option name="presentableId" value="Default" />
       <updated>1731271334560</updated>
       <workItem from="1731271340506" duration="1287000" />
-      <workItem from="1731272639596" duration="1557000" />
+      <workItem from="1731272639596" duration="1689000" />
+      <workItem from="1731280059238" duration="333000" />
     </task>
     <task id="LOCAL-00001" summary="git init">
       <option name="closed" value="true" />
