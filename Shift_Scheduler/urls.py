@@ -6,5 +6,5 @@ from django.urls import path
 urlpatterns = [
     path('', employee_views.schedule, name='schedule'),
     path('admin/', admin.site.urls),
-    path('second', manager_views.second, name='second'),
+    path('index', manager_views.index, name='index'),
 ]

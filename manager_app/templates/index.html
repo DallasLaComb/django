@@ -1,13 +1,35 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>index page</title>
-</head>
-<body>
-<h1>
-    index page
-</h1>
-
-</body>
-</html>
+<!-- templates/index.html -->
+{% extends "base.html" %} {% block title %}Home - Shift Scheduling{% endblock %}
+{% block header %}Shift Scheduling Dashboard{% endblock %} {% block subtitle
+%}Welcome to the Shift Scheduler{% endblock %} {% block content %}
+<div class="bg-white shadow-md rounded my-6 overflow-x-auto">
+  <table class="min-w-full bg-white">
+    <thead>
+      <tr class="w-full bg-blue-600 text-white">
+        <th class="w-1/3 py-3 px-4 uppercase font-semibold text-sm">
+          Employee
+        </th>
+        <th class="w-1/3 py-3 px-4 uppercase font-semibold text-sm">
+          Position
+        </th>
+        <th class="w-1/3 py-3 px-4 uppercase font-semibold text-sm">
+          Shift Time
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="text-gray-700">
+        <td class="py-3 px-4 border-b">John Doe</td>
+        <td class="py-3 px-4 border-b">Manager</td>
+        <td class="py-3 px-4 border-b">9:00 AM - 5:00 PM</td>
+      </tr>
+      <tr class="text-gray-700 bg-gray-100">
+        <td class="py-3 px-4 border-b">Jane Smith</td>
+        <td class="py-3 px-4 border-b">Cashier</td>
+        <td class="py-3 px-4 border-b">10:00 AM - 6:00 PM</td>
+      </tr>
+      <!-- Additional rows can go here -->
+    </tbody>
+  </table>
+</div>
+{% endblock %}

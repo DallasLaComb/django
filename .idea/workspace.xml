@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88acd4a3-2367-4006-a40e-b959fb648dc6" name="Changes" comment="git init">
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shift_Scheduler/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Shift_Scheduler/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager_app/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/manager_app/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +28,6 @@
       </list>
     </option>
   </component>
-  <component name="FormatOnSaveOptions">
-    <option name="myRunOnSave" value="true" />
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -41,6 +43,9 @@
     &quot;accountId&quot;: &quot;5c5d1385-b044-4bbb-8c67-02bf6aa40aa6&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/templates/base.html" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -58,12 +63,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "django.template.preview.state": "SHOW_EDITOR",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Dallas/Desktop/Shift_Scheduler",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "actions.on.save",
+    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\Dallas\\Desktop\\Shift_Scheduler\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "preferences.general",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -117,7 +127,10 @@
       <updated>1731271334560</updated>
       <workItem from="1731271340506" duration="1287000" />
       <workItem from="1731272639596" duration="1689000" />
-      <workItem from="1731280059238" duration="333000" />
+      <workItem from="1731280059238" duration="1452000" />
+      <workItem from="1731281525694" duration="1160000" />
+      <workItem from="1731282702505" duration="393000" />
+      <workItem from="1731283149560" duration="527000" />
     </task>
     <task id="LOCAL-00001" summary="git init">
       <option name="closed" value="true" />
